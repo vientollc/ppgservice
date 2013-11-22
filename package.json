@@ -1,0 +1,19 @@
+{
+  "name": "ppgservice",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongoose": "3.6.20",
+    "moment": "2.3.1",
+      "percolator": "1.2.1",
+    "soap": "0.2.7",
+    "xml2js": "0.2.8"
+  },
+  "subdomain": "ppgservice",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
